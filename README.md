@@ -1,9 +1,1 @@
-# Try Django 1.9
-
-This readme looks this way because you are within a Lecture's commit. Go to the [home](https://github.com/codingforentrepreneurs/try-django-19) repo to see links for each lecture's code.
-
-Thanks for watching!
-
-Team CFE# post
-# finalblog
-# finalblog
+I  have created this simple blogpost app where the admin can add, edit,delete content. Any other user who tries to do any of these will be redirected to a 404 error. Only admin can make any changes. A user can only see the blog posts.
